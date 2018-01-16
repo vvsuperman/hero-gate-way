@@ -4,7 +4,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>microservice-api-gateway</artifactId>
+  <artifactId>microservice-hero-gateway</artifactId>
   <packaging>jar</packaging>
 
   <parent>
